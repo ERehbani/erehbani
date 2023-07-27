@@ -70,7 +70,7 @@
         </tr>
     </table>
     <img src="icons/code.png" height="300px"/>
-    </div>
+</div>
 
 <br>
 
@@ -79,3 +79,10 @@
   <a href="https://github.com/ERehbani"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ERehbani&theme=radical&title_color=7e00bf?"></a>
   <a href="https://github.com/ERehbani"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=ERehbani&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 </div>
+
+
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/elianlihtronx?si=e803aa06b9fa49d9)
+<br/>
