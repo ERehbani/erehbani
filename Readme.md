@@ -10,6 +10,14 @@
     Languages: ["Spanish"], ["English US"], ["English UK"]
     Occupation: Argentina
 ```
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eli%C3%A1n-rehbani-96113624b/" alt="Join our community"><img width="32px" src="icons/linkedin.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/khn_baty/"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="icons/instagram.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 <br>
 
