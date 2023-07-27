@@ -58,5 +58,5 @@
             </td>
         </tr>
     </table>
-    <img src="svg/artificialintelligence.svg" height="225px"/>
+    <img src="icons/artwork.jpg" height="225px"/>
 </div>
