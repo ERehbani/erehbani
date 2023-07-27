@@ -17,43 +17,43 @@
     <table align="left">
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="nodejs.png" width="65px"/>
+                <img src="icons/nodejs.png" width="65px"/>
                 <br /> NodeJS
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="javascript.png" width="65px"/>
+                <img src="icons/javascript.png" width="65px"/>
                 <br /> Javascript
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="react.png" width="65px"/>
+                <img src="icons/react.png" width="65px"/>
                 <br /> ReactJS
             </td>
         </tr>
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="sql.png" width="65px"/>
+                <img src="icons/sql.png" width="65px"/>
                 <br /> SQL
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="git.png" width="65px"/>
+                <img src="icons/git.png" width="65px"/>
                 <br /> GIT
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="expressjs.png" width="65px"/>
+                <img src="icons/expressjs.png" width="65px"/>
                 <br /> ExpressJS
             </td>
         </tr>
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="css.png" width="65px"/>
+                <img src="icons/css.png" width="65px"/>
                 <br /> CSS
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="tailwind.png" width="65px"/>
+                <img src="icons/tailwind.png" width="65px"/>
                 <br /> Tailwind CSS
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="jest.png" width="65px"/>
+                <img src="icons/jest.png" width="65px"/>
                 <br /> jest
             </td>
         </tr>
