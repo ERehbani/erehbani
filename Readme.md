@@ -73,6 +73,12 @@
                 <br /> Jest
             </td>
         </tr>
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/html.png" width="65px"/>
+                <br /> HTML
+            </td>
+        </tr>
     </table>
     <img src="icons/code.png" height="300px"/>
 </div>
