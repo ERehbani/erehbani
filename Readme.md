@@ -13,11 +13,6 @@
     Occupation: Argentina
 ```
 
-<div align="left">
-
-[![Spotify](https://novatorem-ashy-ten.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/elianlihtronx)
-</div>
-
 <br>
 
 <p align="center">
@@ -85,6 +80,28 @@
 </div>
 
 <br>
+
+## Softwares 💻
+<div align="center">
+    <table align="left">
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/vscode.png" width="65px"/>
+                <br /> VSCode
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/figma.png" width="65px"/>
+                <br /> Figma
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/notion.png" width="65px"/>
+                <br /> Notion
+            </td>
+        </tr>
+    </table>
+</div>
+
+
 <br>
 
 ## GitHub Stats 🔥
