@@ -1,4 +1,6 @@
 ## About ME 🎯
+<div align="center">
+<div align="left">
 
 ```csharp
     Human Information
@@ -12,9 +14,11 @@
     Languages: ["Spanish"], ["English US"], ["English UK"]
     Occupation: Argentina
 ```
+</div>
 
-<img src="icons/mancatcode.png" height="300px"/>
+<img src="icons/mancatcode.png" height="300px" align="right"/>
 
+</div>
 <br>
 
 <p align="center">
