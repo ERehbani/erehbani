@@ -70,6 +70,7 @@
         </tr>
     </table>
     <img src="icons/code.png" height="300px"/>
+    </div>
 
 <br>
 
