@@ -15,7 +15,7 @@
 
 <div align="left">
 
-[![Spotify](https://novatorem-k9o3l2bou-erehbani.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/elianlihtronx)
+[![Spotify](https://novatorem-git-main-erehbani.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/elianlihtronx)
 </div>
 <br>
 
