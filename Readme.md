@@ -25,7 +25,7 @@
                 <br /> Javascript
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="icons/react.png" width="65px"/>
+                <img src="icons/React.png" width="65px"/>
                 <br /> ReactJS
             </td>
         </tr>
@@ -53,8 +53,8 @@
                 <br /> Tailwind CSS
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="icons/jest.png" width="65px"/>
-                <br /> jest
+                <img src="icons/Jest.png" width="65px"/>
+                <br /> Jest
             </td>
         </tr>
     </table>
