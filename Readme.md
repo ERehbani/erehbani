@@ -58,5 +58,4 @@
             </td>
         </tr>
     </table>
-    <img src="icons/artwork.jpg" height="225px"/>
-</div>
+    <img src="https://www.pngmart.com/image/715596" height="225px"/>
