@@ -1,6 +1,6 @@
 ## About ME 🎯
 <div align="center">
-<div align="left">
+<div align="right">
 
 ```csharp
     Human Information
@@ -22,7 +22,9 @@
 </p>
 </div>
 
-<img src="icons/mancatcode.png" height="300px" align="right"/>
+<div align="left">
+    <img src="icons/mancatcode.png" height="300px"/>
+</div>
 
 </div>
 <br>
