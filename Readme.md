@@ -84,5 +84,5 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://https:/novatorem-git-main-erehbani.vercel.app/api/spotify)](https://open.spotify.com/user/lihtronx)
+[![Spotify](https://https:/novatorem-git-main-erehbani.vercel.app/api/spotify)](https://open.spotify.com/user/elianlihtronx)
 <br/>
