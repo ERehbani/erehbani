@@ -83,6 +83,7 @@
 
 
 ### Now Playing 🎧
-
-[![Spotify](https://novatorem-git-main-erehbani.vercel.app/api/spotify)](https://open.spotify.com/user/elianlihtronx)
+&nbsp;<div align="center">
+[![Spotify](https://novatorem-ashy-ten.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/elianlihtronx)
+</div>
 <br/>
