@@ -1,5 +1,7 @@
 ## About ME 🎯
 
+<div>
+<div align="rigth">
 ```csharp
     Human Information
     ------------------------------------------
@@ -12,6 +14,13 @@
     Languages: ["Spanish"], ["English US"], ["English UK"]
     Occupation: Argentina
 ```
+</div>
+
+<div align="left">
+[![Spotify](https://novatorem-ashy-ten.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/elianlihtronx)
+</div>
+</div>
+
 <br>
 
 <p align="center">
@@ -79,11 +88,3 @@
   <a href="https://github.com/ERehbani"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ERehbani&theme=radical&title_color=7e00bf?"></a>
   <a href="https://github.com/ERehbani"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=ERehbani&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 </div>
-
-
-
-### Now Playing 🎧
-&nbsp;<div align="center">
-[![Spotify](https://novatorem-ashy-ten.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/elianlihtronx)
-</div>
-<br/>
