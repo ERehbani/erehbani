@@ -97,6 +97,10 @@
                 <img src="icons/notion.png" width="65px"/>
                 <br /> Notion
             </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/insomnia.png" width="65px"/>
+                <br /> Insomnia
+            </td>
         </tr>
     </table>
 </div>
