@@ -14,14 +14,17 @@
 ```
 
 <br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/eli%C3%A1n-rehbani-96113624b/" alt="Join our community" target="_blank"><img width="32px" src="icons/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/khn_baty/" target="_blank"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="icons/instagram.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
 <br>
-Technologies 👨‍💻
+
+## Tecnologies 👨‍💻
 <div align="center">
     <table align="left">
         <tr>
@@ -75,8 +78,10 @@ Technologies 👨‍💻
     </table>
     <img src="icons/code.png" height="300px"/>
 </div>
+
 <br>
-Softwares 💻
+
+## Softwares 💻
 <div align="center">
     <table align="left">
         <tr>
@@ -95,13 +100,16 @@ Softwares 💻
         </tr>
     </table>
 </div>
+
+
 <br>
-<br>
-GitHub Stats 🔥
+
+## GitHub Stats 🔥
 <div align="center">
   <a href="https://github.com/ERehbani"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ERehbani&theme=radical&title_color=7e00bf?"></a>
   <a href="https://github.com/ERehbani"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=ERehbani&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 </div>
+
 
 <!-- novatorem-erehbani.vercel.app
 novatorem-git-main-erehbani.vercel.app -->
