@@ -116,7 +116,7 @@
 <div align="center">
   <a href="https://github.com/ERehbani"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ERehbani&theme=radical&title_color=7e00bf?"></a>
   <a href="https://github.com/ERehbani"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=ERehbani&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERehbani&layout=compact&heigt=&theme=algolia" align="center"/>
+  <a href="https://github.com/ERehbani"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERehbani&layout=compact&heigt=&theme=algolia"></a>
 
 </div>
 
