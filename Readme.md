@@ -37,8 +37,8 @@
                 <br /> Javascript
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="icons/React.png" width="65px"/>
-                <br /> ReactJS
+                <img src="icons/react-redux.png" width="65px"/>
+                <br /> ReactJS - Redux
             </td>
         </tr>
         <tr>
@@ -98,14 +98,14 @@
                 <br /> Notion
             </td>
         </tr>
-        <td>
-        </td>
+            <td>
+            </td>
             <td align="center" width="140" height="112.43">
                 <img src="icons/insomnia.png" width="65px"/>
                 <br /> Insomnia
-        </td>
-                </td>
-                <td>
+            </td>
+            </td>
+            <td>
     </table>
 </div>
 
