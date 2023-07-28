@@ -103,9 +103,9 @@
             <td align="center" width="140" height="112.43">
                 <img src="icons/insomnia.png" width="65px"/>
                 <br /> Insomnia
-            </td>
-            <td>
         </td>
+                </td>
+                <td>
     </table>
 </div>
 
