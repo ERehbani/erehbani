@@ -24,6 +24,8 @@
 
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERehbani&layout=compact&heigt=&theme=algolia" align="center"/>
+
 ## Tecnologies 👨‍💻
 <div align="center">
     <table align="left">
