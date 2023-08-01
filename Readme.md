@@ -11,6 +11,7 @@
     Hobbies: ["Movies"], ["Coding"], ["Gaming"], ["Music"]
     Languages: ["Spanish"], ["English US"], ["English UK"]
     Occupation: Argentina
+    Projects: Talent Forge, PI Countries, PI Dogs
 
 Hello! I'm Elian 🇦🇷, just graduated from Henry's Bootcamp 🚀. I am passionate about programming and I always
 focus on learning new technologies or expanding my current knowledge in order to achieve new options for
