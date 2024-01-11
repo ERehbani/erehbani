@@ -13,7 +13,7 @@
     Occupation: Argentina
     Projects: ["Talent Forge"], ["PI Countries"], ["Ooink.me"]
 
-Hello! I'm Elian 🇦🇷, just graduated from Henry's Bootcamp 🚀. I am passionate about programming and I always
+Hello! I'm Elian 🇦🇷. I am passionate about programming and I always
 focus on learning new technologies or expanding my current knowledge in order to achieve new options for
 projects to carryout in my future.
  As a dedicated person I am usually self-demanding and always try to improve any area of ​​my projects
