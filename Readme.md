@@ -7,11 +7,10 @@
     Lastname: Rehbani
     Nickname: ERehbani
     Gender: Male
-    Age: 20
-    Hobbies: ["Movies"], ["Coding"], ["Gaming"], ["Music"]
-    Languages: ["Spanish"], ["English US"], ["English UK"]
-    Occupation: Argentina
-    Projects: ["Talent Forge"], ["PI Countries"], ["Ooink.me"]
+    Age: 21
+    Languages: ["Spanish", "English US", "English UK"]
+    Country: Argentina
+    Experience: ["Gravitad", "TickCorp", "CosmeeWorld"]
 
 Hello! I'm Elian 🇦🇷. I am passionate about programming and I always
 focus on learning new technologies or expanding my current knowledge in order to achieve new options for
