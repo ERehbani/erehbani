@@ -22,7 +22,7 @@ so that the UI/UX is even better.
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eli%C3%A1n-rehbani-96113624b/" alt="Join our community" target="_blank"><img width="64px" src="icons/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/elianrehbani" alt="Join our community" target="_blank"><img width="64px" src="icons/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
