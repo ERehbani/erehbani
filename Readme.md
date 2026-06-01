@@ -104,10 +104,3 @@ so that the UI/UX is even better.
         </tr>
     </table>
 </div>
-
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/ERehbani"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERehbani&layout=compact&heigt=&theme=algolia"></a>
-</div>
