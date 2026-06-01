@@ -7,10 +7,10 @@
     Lastname: Rehbani
     Nickname: ERehbani
     Gender: Male
-    Age: 21
+    Age: 22
     Languages: ["Spanish", "English US", "English UK"]
     Country: Argentina
-    Experience: ["Gravitad", "TickCorp", "CosmeeWorld"]
+    Experience: ["Gravitad", "TickCorp", "useTeam"]
 
 Hello! I'm Elian 🇦🇷. I am passionate about programming and I always
 focus on learning new technologies or expanding my current knowledge in order to achieve new options for
@@ -102,14 +102,6 @@ so that the UI/UX is even better.
                 <br /> Notion
             </td>
         </tr>
-            <td>
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="icons/insomnia.png" width="65px"/>
-                <br /> Insomnia
-            </td>
-            </td>
-            <td>
     </table>
 </div>
 
